@@ -2,6 +2,8 @@
 Whether you're on the air or offline, it will get to you eventually
 
 # Overview
+
+**NOTICE: As of 1/10/20 the site has been taken down, thus breaking all the links.  Hopefully it comes back but who knows**
 This is a collection of whatever material I can get about [Jet Set Radio Live](https://jetsetradio.live) with the main goal being preservation and helping people find songs.
 
 Currently, here's the resources I have:
