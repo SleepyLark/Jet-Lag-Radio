@@ -21,5 +21,7 @@ I don't know how often the site gets updated so some songs may be added, removed
 
 The program I used to quickly get all this information was something I slapped together in Java using my limited programming knowledge, it's currently a mess and probably won't be useful to most people.
 
+Also I should mention that "Jet Mash Radio" is whack due to using Russian characters in it's file name which is then used as the song's URL so it ends up not encoding well.  
+
 # Credits
 * The mysterious **Professor K** for collecting and hosting these songs on his website.
