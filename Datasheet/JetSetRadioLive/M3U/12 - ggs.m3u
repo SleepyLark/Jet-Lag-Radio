@@ -1,10 +1,22 @@
 #EXTM3U
+#EXTINF:0,112 - Dance With Me (Instrumental)
+#EXTVLCOPT:network-caching=1000
+https://jetsetradio.live/radio/stations/ggs/112%20-%20Dance%20With%20Me%20%28Instrumental%29.mp3
 #EXTINF:0,A Skillz - Good Music
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/A%20Skillz%20-%20Good%20Music.mp3
 #EXTINF:0,A Skillz, Dr Luke, Kraftykuts - Bring Back The Funk
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/A%20Skillz%2C%20Dr%20Luke%2C%20Kraftykuts%20-%20Bring%20Back%20The%20Funk.mp3
+#EXTINF:0,A Tribe Called Quest - Award Tour
+#EXTVLCOPT:network-caching=1000
+https://jetsetradio.live/radio/stations/ggs/A%20Tribe%20Called%20Quest%20-%20Award%20Tour.mp3
+#EXTINF:0,A Tribe Called Quest - Can I Kick It
+#EXTVLCOPT:network-caching=1000
+https://jetsetradio.live/radio/stations/ggs/A%20Tribe%20Called%20Quest%20-%20Can%20I%20Kick%20It.mp3
+#EXTINF:0,A Tribe Called Quest - Check The Rhime
+#EXTVLCOPT:network-caching=1000
+https://jetsetradio.live/radio/stations/ggs/A%20Tribe%20Called%20Quest%20-%20Check%20The%20Rhime.mp3
 #EXTINF:0,Aceyalone - All For U (RJD2 Mix)
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/Aceyalone%20-%20All%20For%20U%20%28RJD2%20Mix%29.mp3
@@ -14,6 +26,9 @@ https://jetsetradio.live/radio/stations/ggs/Apollo%20440%20-%20Can%27t%20Stop%20
 #EXTINF:0,Arrested Development - Man's Final Frontier
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/Arrested%20Development%20-%20Man%27s%20Final%20Frontier.mp3
+#EXTINF:0,ATCQ - Can I Kick It (Featurecast Remix)
+#EXTVLCOPT:network-caching=1000
+https://jetsetradio.live/radio/stations/ggs/ATCQ%20-%20Can%20I%20Kick%20It%20%28Featurecast%20Remix%29.mp3
 #EXTINF:0,BadboE - Funk In The Air (Fort Knox Five Remix)
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/BadboE%20-%20Funk%20In%20The%20Air%20%28Fort%20Knox%20Five%20Remix%29.mp3
@@ -23,9 +38,15 @@ https://jetsetradio.live/radio/stations/ggs/BadboE%20-%20Green%20Power%20Funk.mp
 #EXTINF:0,BadboE - Hercules (Original Mix)
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/BadboE%20-%20Hercules%20%28Original%20Mix%29.mp3
+#EXTINF:0,BadboE - Hit It Maestro feat. MC Rayna
+#EXTVLCOPT:network-caching=1000
+https://jetsetradio.live/radio/stations/ggs/BadboE%20-%20Hit%20It%20Maestro%20feat.%20MC%20Rayna.mp3
 #EXTINF:0,BadboE - Make It Happen (Father Funk Remix)
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/BadboE%20-%20Make%20It%20Happen%20%28Father%20Funk%20Remix%29.mp3
+#EXTINF:0,BadboE - Make It Happen (Original Mix)
+#EXTVLCOPT:network-caching=1000
+https://jetsetradio.live/radio/stations/ggs/BadboE%20-%20Make%20It%20Happen%20%28Original%20Mix%29.mp3
 #EXTINF:0,BadboE - Masterpiece
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/BadboE%20-%20Masterpiece.mp3
@@ -35,15 +56,27 @@ https://jetsetradio.live/radio/stations/ggs/BadboE%20-%20My%20Bad%20%28Jayl%20Fu
 #EXTINF:0,BadboE - One Of Those Days (Pimpsoul Remix)
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/BadboE%20-%20One%20Of%20Those%20Days%20%28Pimpsoul%20Remix%29.mp3
+#EXTINF:0,BadboE - Sound of Invasion (Original Mix)
+#EXTVLCOPT:network-caching=1000
+https://jetsetradio.live/radio/stations/ggs/BadboE%20-%20Sound%20of%20Invasion%20%28Original%20Mix%29.mp3
 #EXTINF:0,BadboE - What You Wanna Do (Funkanomics Remix)
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/BadboE%20-%20What%20You%20Wanna%20Do%20%28Funkanomics%20Remix%29.mp3
+#EXTINF:0,BadboE - Work It Out (feat Michael DeVellis)
+#EXTVLCOPT:network-caching=1000
+https://jetsetradio.live/radio/stations/ggs/BadboE%20-%20Work%20It%20Out%20%28feat%20Michael%20DeVellis%29.mp3
 #EXTINF:0,BadboE vs Prosper - Too Hot To Handle
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/BadboE%20vs%20Prosper%20-%20Too%20Hot%20To%20Handle.mp3
+#EXTINF:0,Bagjac - Cut A Break
+#EXTVLCOPT:network-caching=1000
+https://jetsetradio.live/radio/stations/ggs/Bagjac%20-%20Cut%20A%20Break.mp3
 #EXTINF:0,Bart Baker & Slim Gaillard - Communication
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/Bart%20Baker%20%26%20Slim%20Gaillard%20-%20Communication.mp3
+#EXTINF:0,Beastie Boys - Ch-Check It Out
+#EXTVLCOPT:network-caching=1000
+https://jetsetradio.live/radio/stations/ggs/Beastie%20Boys%20-%20Ch-Check%20It%20Out.mp3
 #EXTINF:0,Beastie Boys - Flute Loop
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/Beastie%20Boys%20-%20Flute%20Loop.mp3
@@ -59,6 +92,12 @@ https://jetsetradio.live/radio/stations/ggs/Beastie%20Boys%20-%20So%20What%20Cha
 #EXTINF:0,Beastie Boys - Sure Shot
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/Beastie%20Boys%20-%20Sure%20Shot.mp3
+#EXTINF:0,Beat Fatigue - Funky Borderline
+#EXTVLCOPT:network-caching=1000
+https://jetsetradio.live/radio/stations/ggs/Beat%20Fatigue%20-%20Funky%20Borderline.mp3
+#EXTINF:0,Bobby C Sound TV - Roller Soul
+#EXTVLCOPT:network-caching=1000
+https://jetsetradio.live/radio/stations/ggs/Bobby%20C%20Sound%20TV%20-%20Roller%20Soul.mp3
 #EXTINF:0,BotanicSage - Super Ink Shooter
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/BotanicSage%20-%20Super%20Ink%20Shooter.mp3
@@ -92,6 +131,9 @@ https://jetsetradio.live/radio/stations/ggs/Deluxe%20Feat%20A%20State%20Of%20Min
 #EXTINF:0,DJ Hiphoppapotamus - Bigger Than A Hiphoppapotamus
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/DJ%20Hiphoppapotamus%20-%20Bigger%20Than%20A%20Hiphoppapotamus.mp3
+#EXTINF:0,DJ Kychu - Rock It Like This
+#EXTVLCOPT:network-caching=1000
+https://jetsetradio.live/radio/stations/ggs/DJ%20Kychu%20-%20Rock%20It%20Like%20This.mp3
 #EXTINF:0,Fatboy Slim - Always Read The Label
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/Fatboy%20Slim%20-%20Always%20Read%20The%20Label.mp3
@@ -101,6 +143,9 @@ https://jetsetradio.live/radio/stations/ggs/Fatboy%20Slim%20-%20Rockafeller%20Sk
 #EXTINF:0,Fatboy Slim - Weapon of Choice (Tom Drummond Remix)
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/Fatboy%20Slim%20-%20Weapon%20of%20Choice%20%28Tom%20Drummond%20Remix%29.mp3
+#EXTINF:0,Fatboy Slim - You're Not From Brighton
+#EXTVLCOPT:network-caching=1000
+https://jetsetradio.live/radio/stations/ggs/Fatboy%20Slim%20-%20You%27re%20Not%20From%20Brighton.mp3
 #EXTINF:0,FDEL - Ladies and Gentlemen
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/FDEL%20-%20Ladies%20and%20Gentlemen.mp3
@@ -110,24 +155,36 @@ https://jetsetradio.live/radio/stations/ggs/FDEL%20-%20Rocksteady.mp3
 #EXTINF:0,Feature Cast - Channel Surfing
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/Feature%20Cast%20-%20Channel%20Surfing.mp3
+#EXTINF:0,Featurecast - Channel Hopping (feat Kool Keith)
+#EXTVLCOPT:network-caching=1000
+https://jetsetradio.live/radio/stations/ggs/Featurecast%20-%20Channel%20Hopping%20%28feat%20Kool%20Keith%29.mp3
 #EXTINF:0,Fu Schnickens - Express Yourself (feat Roger Troutman)
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/Fu%20Schnickens%20-%20Express%20Yourself%20%28feat%20Roger%20Troutman%29.mp3
 #EXTINF:0,Funkstar De Luxe - Ignition
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/Funkstar%20De%20Luxe%20-%20Ignition.mp3
+#EXTINF:0,G Bonson - Stop
+#EXTVLCOPT:network-caching=1000
+https://jetsetradio.live/radio/stations/ggs/G%20Bonson%20-%20Stop.mp3
 #EXTINF:0,Galactic - Do It Again (Featuring Cheeky Blakk)
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/Galactic%20-%20Do%20It%20Again%20%28Featuring%20Cheeky%20Blakk%29.mp3
 #EXTINF:0,Ghetto Funk - Cant Stomp
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/Ghetto%20Funk%20-%20Cant%20Stomp.mp3
+#EXTINF:0,Goldfish - We Come Together
+#EXTVLCOPT:network-caching=1000
+https://jetsetradio.live/radio/stations/ggs/Goldfish%20-%20We%20Come%20Together.mp3
 #EXTINF:0,Gorillaz - 19 2000 (Soulchild Remix)
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/Gorillaz%20-%2019%202000%20%28Soulchild%20Remix%29.mp3
 #EXTINF:0,Gorillaz - Dare
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/Gorillaz%20-%20Dare.mp3
+#EXTINF:0,Gorillaz - People
+#EXTVLCOPT:network-caching=1000
+https://jetsetradio.live/radio/stations/ggs/Gorillaz%20-%20People.mp3
 #EXTINF:0,Gorillaz - Re-Hash
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/Gorillaz%20-%20Re-Hash.mp3
@@ -173,6 +230,9 @@ https://jetsetradio.live/radio/stations/ggs/GRiZ%20-%20The%20Anthem%20%28feat%20
 #EXTINF:0,GRiZ - The Future Is Now
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/GRiZ%20-%20The%20Future%20Is%20Now.mp3
+#EXTINF:0,GRiZ - Wheres The Love
+#EXTVLCOPT:network-caching=1000
+https://jetsetradio.live/radio/stations/ggs/GRiZ%20-%20Wheres%20The%20Love.mp3
 #EXTINF:0,Grizmatik - Digital Liberation Is Mad Freedom
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/Grizmatik%20-%20Digital%20Liberation%20Is%20Mad%20Freedom.mp3
@@ -188,6 +248,9 @@ https://jetsetradio.live/radio/stations/ggs/Imi%20Kamoze%20-%20Here%20Comes%20th
 #EXTINF:0,Janelle Monae ft Big Boi - Tightrope
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/Janelle%20Monae%20ft%20Big%20Boi%20-%20Tightrope.mp3
+#EXTINF:0,Jungle Brothers - True Blue (Aphrodite Remix)
+#EXTVLCOPT:network-caching=1000
+https://jetsetradio.live/radio/stations/ggs/Jungle%20Brothers%20-%20True%20Blue%20%28Aphrodite%20Remix%29.mp3
 #EXTINF:0,Junkie XL - Catch Up To My Step (Bossatnova Remix)
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/Junkie%20XL%20-%20Catch%20Up%20To%20My%20Step%20%28Bossatnova%20Remix%29.mp3
@@ -203,12 +266,18 @@ https://jetsetradio.live/radio/stations/ggs/Jurassic%205%20-%20Red%20Hot.mp3
 #EXTINF:0,Jurassic 5 - Sum of Us
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/Jurassic%205%20-%20Sum%20of%20Us.mp3
+#EXTINF:0,Jurassic 5 - The Influence
+#EXTVLCOPT:network-caching=1000
+https://jetsetradio.live/radio/stations/ggs/Jurassic%205%20-%20The%20Influence.mp3
 #EXTINF:0,Jurassic 5 - What's Golden
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/Jurassic%205%20-%20What%27s%20Golden.mp3
 #EXTINF:0,Lenny Kravitz - Fly Away (PINEO & LOEB Remix)
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/Lenny%20Kravitz%20-%20Fly%20Away%20%28PINEO%20%26%20LOEB%20Remix%29.mp3
+#EXTINF:0,Lenny Kravitz - Mama Said (PulpFusion Mix)
+#EXTVLCOPT:network-caching=1000
+https://jetsetradio.live/radio/stations/ggs/Lenny%20Kravitz%20-%20Mama%20Said%20%28PulpFusion%20Mix%29.mp3
 #EXTINF:0,Lt Frank Drebin - Beat Fatigue (WBBL Remix)
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/Lt%20Frank%20Drebin%20-%20Beat%20Fatigue%20%28WBBL%20Remix%29.mp3
@@ -236,6 +305,9 @@ https://jetsetradio.live/radio/stations/ggs/Mystikal%20-%20Smashing%20the%20Gas%
 #EXTINF:0,Nanarthur - Space Raiders Song For Dot Wlm
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/Nanarthur%20-%20Space%20Raiders%20Song%20For%20Dot%20Wlm.mp3
+#EXTINF:0,Nappy Roots - Good Day
+#EXTVLCOPT:network-caching=1000
+https://jetsetradio.live/radio/stations/ggs/Nappy%20Roots%20-%20Good%20Day.mp3
 #EXTINF:0,NWA - Express Yourself
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/NWA%20-%20Express%20Yourself.mp3
@@ -272,6 +344,9 @@ https://jetsetradio.live/radio/stations/ggs/Skankfunk%20-%20Strutters%20Cruise.m
 #EXTINF:0,Skeewiff & Vanessa Contenay - Heatwave (Don't Stop)
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/Skeewiff%20%26%20Vanessa%20Contenay%20-%20Heatwave%20%28Don%27t%20Stop%29.mp3
+#EXTINF:0,Slynk & Stickybuds - Full Tilt Boogie
+#EXTVLCOPT:network-caching=1000
+https://jetsetradio.live/radio/stations/ggs/Slynk%20%26%20Stickybuds%20-%20Full%20Tilt%20Boogie.mp3
 #EXTINF:0,Smash Mouth - Hot
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/Smash%20Mouth%20-%20Hot.mp3
@@ -317,3 +392,6 @@ https://jetsetradio.live/radio/stations/ggs/Thomas%20Bangalter%20-%20Spinal%20Sc
 #EXTINF:0,TJR - Funky Vodka (Original Mix)
 #EXTVLCOPT:network-caching=1000
 https://jetsetradio.live/radio/stations/ggs/TJR%20-%20Funky%20Vodka%20%28Original%20Mix%29.mp3
+#EXTINF:0,Visualizer - Kick It Off
+#EXTVLCOPT:network-caching=1000
+https://jetsetradio.live/radio/stations/ggs/Visualizer%20-%20Kick%20It%20Off.mp3

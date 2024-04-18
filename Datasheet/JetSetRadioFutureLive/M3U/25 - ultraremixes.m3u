@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0,R
+#EXTVLCOPT:network-caching=1000
+https://jetsetradiofuture.live/radio/stations/ultraremixes/R.mp3
+#EXTINF:0,NinHenry - Sneakman (Kapi10 Mix)
+#EXTVLCOPT:network-caching=1000
+https://jetsetradiofuture.live/radio/stations/ultraremixes/NinHenry%20-%20Sneakman%20%28Kapi10%20Mix%29.mp3
 #EXTINF:0,Ahmaykmewsik - Executioner (K MIX)
 #EXTVLCOPT:network-caching=1000
 https://jetsetradiofuture.live/radio/stations/ultraremixes/Ahmaykmewsik%20-%20Executioner%20%28K%20MIX%29.mp3
