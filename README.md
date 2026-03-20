@@ -5,7 +5,7 @@ Whether you're on the air or offline, it will get to you eventually
 This is a collection of whatever material I can get about [Jet Set Radio Live](https://jetsetradio.live) with the main goal being preservation and helping people find songs.
 
 Currently, here's the resources I have:
-- **Dump of each stations** (Archive.org](https://archive.org/details/JSRL-archive))
+- **Dump of each stations** ([Archive.org](https://archive.org/details/JSRL-archive))
   - For offline listening.  Because of how slow Archive.org is for uploading it's hard to constantly maintain.
 - **M3U files for online streaming**
   - Streams the mp3 file directly from the site for each station. Currently doesn't have song length information.
